@@ -74,15 +74,21 @@
 
 ## 💼 Table of Contents
 
-* [Features](#-features)
-* [Getting Started](#-getting-started)
-* [Documentation](#-documentation)
-* [Contributing](#-contributing)
-* [Developing](#-developing)
-  * [API](#-api)
-* [Community](#-community)
-* [License](#-license)
-* [Supporters](#-supporters)
+- [BTCPay Server](#btcpay-server)
+  - [💼 Table of Contents](#-table-of-contents)
+  - [🎨 Features](#-features)
+  - [🚀 Getting Started](#-getting-started)
+  - [📗 Documentation](#-documentation)
+  - [🤝 Contributing](#-contributing)
+  - [🧑‍💻 Developing](#-developing)
+    - [How to build](#how-to-build)
+    - [How to run](#how-to-run)
+    - [How to debug](#how-to-debug)
+    - [Other dependencies](#other-dependencies)
+    - [🧪 API](#-api)
+  - [💚 Community](#-community)
+  - [📝 License](#-license)
+  - [🙏 Supporters](#-supporters)
 
 ![](https://raw.githubusercontent.com/btcpayserver/btcpayserver-doc/master/docs/img/BTCPayServerScreenshot.png)
 
